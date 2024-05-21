@@ -14,13 +14,13 @@
 }
 
 :root {
-	--color-black: #000000;
-	--color-white: #ffffff;
-	--color-dark: #353535;
-	--color-dark-variant: #808080;
-
-	-o-transition: .4s ease;
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-dark: #353535;
+    --color-dark-variant: #808080;
+    transition: .4s ease;
 }
+
 
 h1,
 h2,
